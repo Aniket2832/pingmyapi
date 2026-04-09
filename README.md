@@ -2,8 +2,7 @@
 
 > API monitoring with schema drift detection, AI anomaly detection, and multi-step API chains.
 
-![PingMyAPI Dashboard](https://i.imgur.com/placeholder.png)
-
+![PingMyAPI Dashboard](screenshots/dashboard.png)
 ## 🌐 Live Demo
 **[pingmyapi.vercel.app](https://pingmyapi.vercel.app)** ← (add after deployment)
 
