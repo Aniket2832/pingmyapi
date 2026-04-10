@@ -4,8 +4,7 @@
 
 ![PingMyAPI Dashboard](screenshots/dashboard.png)
 ## 🌐 Live Demo
-**[pingmyapi.vercel.app](https://pingmyapi.vercel.app)** ← (add after deployment)
-
+**[http://13.60.78.217](http://13.60.78.217)**
 ---
 
 ## 🚀 What is PingMyAPI?
